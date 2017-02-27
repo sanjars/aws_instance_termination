@@ -33,7 +33,7 @@ else:
         print ("Your answer is not valid answer. Type either 'yes' or 'no'.")
 	sys.exit()
 
-# 
+# Termination
 _termResponse_ = raw_input("Would you like to terminate the instances as well? (yes/no):")
 if _termResponse_ == 'yes':
 	print ("Terminating...")
