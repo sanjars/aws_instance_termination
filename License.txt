@@ -1,0 +1,7 @@
+License for the instance_termination.py
+
+1) This is free software.
+2) No license purchase is needed.
+3) You are responsible for any issues you have with the code. 
+4) The developer who wrote the code is not responsible for any damages made for the party that used it.
+5) The developer is not responsible for any issues that other party using the code experiences.
